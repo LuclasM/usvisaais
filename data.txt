@@ -1,0 +1,17 @@
+{
+"USERNAME_P1": "us001@xxxx.ca", 
+"PASSWORD_P1": "", 
+"WEBID_P1": "52689523", 
+"USERNAME_P2": "us002@xxxx.ca", 
+"PASSWORD_P2": "", 
+"WEBID_P2": "52748588", 
+"USERNAME_P3": "us003@xxxx.ca", 
+"PASSWORD_P3": "", 
+"WEBID_P3": "52748641", 
+"USERNAME_P4": "us004@xxxx.ca", 
+"PASSWORD_P4": "", 
+"WEBID_P4": "52748682", 
+"USERNAME_P5": "APP005@xxxx.ca", 
+"PASSWORD_P5": "", 
+"WEBID_P5": "52748792", 
+"CUSTOMERS": {"CUTOMER1": {"USERNAME": "jiangjiaqi@xxxx.ca", "PASSWORD": "", "APPOINTMENT_DATE": "6 December, 2024", "PREFERED_OFFICE": ["Toronto"], "APPOINTMENT_URL": "https://ais.usvisa-info.com/en-ca/niv/schedule/52685466/appointment", "IS_READY": true}}}
